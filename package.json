@@ -3,7 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://pr743.github.io/red-and-white-using-project-1",
+ "homepage": "https://pr743.github.io/red-and-white-using-project-1",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
